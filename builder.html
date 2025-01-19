@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./src/output.css" rel="stylesheet" />
+
+    <title>Document</title>
+  </head>
+  <body class="bg-gray-300">
+    <div id="builder" class="flex flex-col my-20 gap-10">
+      <h1 class="text-center font-bold uppercase text-gray-600 text-5xl">Builder your dream's rig</h1>
+      <div class="flex gap-2 w-5/6 mx-auto">
+        <div id="builder-components" class="flex flex-col gap-2 w-3/4 justify-between">
+          <div id="cases">
+            <div id="case-list" class="flex bg-gray-600 p-4 text-gray-200">
+              <button id="casesDropdown" data-dropdown="cases">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-chevron-down"
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg></button
+              >Case
+            </div>
+          </div>
+          <div id="cpus">
+            <div id="cpu-list" class="flex bg-gray-600 p-4 text-gray-200">
+              <button id="cpusDropdown" data-dropdown="cpus">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-chevron-down"
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg></button
+              >Processor
+            </div>
+          </div>
+          <div id="gpus">
+            <div id="gpu-list" class="flex bg-gray-600 p-4 text-gray-200">
+              <button id="gpusDropdown" data-dropdown="gpus">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-chevron-down"
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg></button
+              >Graphics Card
+            </div>
+          </div>
+          <div id="psus">
+            <div id="psu-list" class="flex bg-gray-600 p-4 text-gray-200">
+              <button id="psusDropdown" data-dropdown="psus">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-chevron-down"
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg></button
+              >Power supply
+            </div>
+          </div>
+          <div id="motherboards">
+            <div id="motherboard-list" class="flex bg-gray-600 p-4 text-gray-200">
+              <button id="motherboardsDropdown" data-dropdown="motherboards">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-chevron-down"
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg></button
+              >Motherboard
+            </div>
+          </div>
+          <div id="rams">
+            <div id="ram-list" class="flex bg-gray-600 p-4 text-gray-200">
+              <button id="ramsDropdown" data-dropdown="rams">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-chevron-down"
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg></button
+              >Memory
+            </div>
+          </div>
+          <div id="ssds">
+            <div id="ssd-list" class="flex bg-gray-600 p-4 text-gray-200">
+              <button id="ssdsDropdown" data-dropdown="ssds">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-chevron-down"
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg></button
+              >SSD
+            </div>
+          </div>
+          <div id="hdds">
+            <div id="hdd-list" class="flex bg-gray-600 p-4 text-gray-200">
+              <button id="hddsDropdown" data-dropdown="hdds">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-chevron-down"
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg></button
+              >HDD (optional)
+            </div>
+          </div>
+        </div>
+        <div id="builder-preview" class="flex flex-col gap-2 w-1/4 h-full text-gray-200">
+          <div class="flex justify-between w-full items-center bg-gray-500 px-2 border-solid border-2 border-gray-500 h-14">
+            <div class="flex flex-col"><span class="text-xl">Price </span></div>
+            <span id="totalPrice" class="font-bold text-xl">0 DH</span>
+          </div>
+          <div class="flex text-gray-600 items-center w-full justify-between border-solid border-2 border-gray-500 text-center">
+            <button id="decrementCount" class="text-3xl w-1/4 text-center items-center">-</button>
+            <span id="buildCount" class="text-3xl border-l border-r border-gray-500 w-1/2 text-center py-4"></span>
+            <button id="incrementCount" class="text-3xl w-1/4">+</button>
+          </div>
+          <button id="addToCart" class="w-full p-4 border-2 border-gray-600 bg-gray-600 text-white hover:text-gray-600 hover:bg-gray-300 text-xl">
+            Add to cart
+          </button>
+          <div id="chosenComponents" class="flex flex-col gap-6 text-gray-600 font-bold">
+            <div class="flex justify-between py-px items-center"><span class="font-semibold text-xs">CASE</span><span id="chosenCase"></span></div>
+            <div class="flex justify-between py-px items-center"><span class="font-semibold text-xs">CPU</span><span id="chosenCpu"></span></div>
+            <div class="flex justify-between py-px items-center"><span class="font-semibold text-xs">GPU</span><span id="chosenGpu"></span></div>
+            <div class="flex justify-between py-px items-center"><span class="font-semibold text-xs">PSU</span><span id="chosenPsu"></span></div>
+            <div class="flex justify-between py-px items-center">
+              <span class="font-semibold text-xs">MOTHERBOARD</span><span id="chosenMotherboard"></span>
+            </div>
+            <div class="flex justify-between py-px items-center"><span class="font-semibold text-xs">RAM</span><span id="chosenRam"></span></div>
+            <div class="flex justify-between py-px items-center"><span class="font-semibold text-xs">SSD</span><span id="chosenSsd"></span></div>
+            <div class="flex justify-between py-px items-center"><span class="font-semibold text-xs">HDD</span><span id="chosenHdd"></span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script></script>
+    <script type="module" src="./scripts/navbar.js"></script>
+    <script type="module" src="./scripts/builder.js"></script>
+    <script type="module" src="./script.js"></script>
+  </body>
+</html>

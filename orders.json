@@ -1,0 +1,4752 @@
+[
+    {
+        "userId": 6,
+        "orderId": "ORDER-5263854",
+        "case": {
+            "model": "CoolerMaster MasterBox Q300L",
+            "price": "59.99"
+        },
+        "cpu": {
+            "model": "AMD Ryzen 5 5600X",
+            "price": "199.99"
+        },
+        "gpu": {
+            "model": "NVIDIA RTX 3060",
+            "price": "329.99"
+        },
+        "hdd": {
+            "model": "Seagate Barracuda 2TB",
+            "price": "54.99"
+        },
+        "motherboard": {
+            "model": "MSI MAG B550 TOMAHAWK",
+            "price": "179.99"
+        },
+        "psu": {
+            "model": "Corsair RM750x",
+            "price": "129.99"
+        },
+        "ram": {
+            "model": "Corsair Vengeance LPX 16GB 3200MHz",
+            "price": "84.99"
+        },
+        "ssd": {
+            "model": "Samsung 970 EVO Plus 1TB",
+            "price": "119.99"
+        },
+        "price": 1158.93
+    },
+    {
+        "userId": 8,
+        "orderId": "ORDER-4398251",
+        "case": {
+            "model": "NZXT H510",
+            "price": "79.99"
+        },
+        "cpu": {
+            "model": "Intel Core i7-12700K",
+            "price": "399.99"
+        },
+        "gpu": {
+            "model": "AMD RX 6700 XT",
+            "price": "479.99"
+        },
+        "hdd": {
+            "model": "Western Digital Blue 1TB",
+            "price": "39.99"
+        },
+        "motherboard": {
+            "model": "Gigabyte AORUS X570",
+            "price": "299.99"
+        },
+        "psu": {
+            "model": "EVGA SuperNOVA 750 G5",
+            "price": "139.99"
+        },
+        "ram": {
+            "model": "G.Skill Trident Z Royal 32GB 3600MHz",
+            "price": "199.99"
+        },
+        "ssd": {
+            "model": "Crucial P5 Plus 2TB",
+            "price": "249.99"
+        },
+        "price": 1889.93
+    },
+    {
+        "userId": 3,
+        "orderId": "ORDER-7230842",
+        "case": {
+            "model": "LianLi PC-O11 Dynamic",
+            "price": "149.99"
+        },
+        "cpu": {
+            "model": "AMD Ryzen 9 5900X",
+            "price": "499.99"
+        },
+        "gpu": {
+            "model": "NVIDIA RTX 3080",
+            "price": "699.99"
+        },
+        "hdd": "",
+        "motherboard": {
+            "model": "ASUS ROG STRIX B550-F GAMING",
+            "price": "199.99"
+        },
+        "psu": {
+            "model": "Seasonic PRIME TX-750",
+            "price": "159.99"
+        },
+        "ram": {
+            "model": "Kingston HyperX Fury 16GB",
+            "price": "89.99"
+        },
+        "ssd": {
+            "model": "Western Digital SN750 1TB",
+            "price": "129.99"
+        },
+        "price": 1929.93
+    },
+    {
+        "userId": 1,
+        "orderId": "ORDER-3048576",
+        "case": {
+            "model": "Thermaltake Core P3",
+            "price": "139.99"
+        },
+        "cpu": {
+            "model": "Intel Core i9-12900K",
+            "price": "599.99"
+        },
+        "gpu": {
+            "model": "AMD RX 6800 XT",
+            "price": "649.99"
+        },
+        "hdd": {
+            "model": "Seagate IronWolf 4TB",
+            "price": "139.99"
+        },
+        "motherboard": {
+            "model": "MSI MEG Z590 ACE",
+            "price": "399.99"
+        },
+        "psu": {
+            "model": "Thermaltake Toughpower GF1 850W",
+            "price": "159.99"
+        },
+        "ram": {
+            "model": "Corsair Dominator Platinum 32GB 3200MHz",
+            "price": "229.99"
+        },
+        "ssd": {
+            "model": "Samsung 980 PRO 2TB",
+            "price": "329.99"
+        },
+        "price": 2649.92
+    },
+    {
+        "userId": 10,
+        "orderId": "ORDER-9083745",
+        "case": {
+            "model": "FractalDesign Meshify C",
+            "price": "99.99"
+        },
+        "cpu": {
+            "model": "Intel Core i5-12600K",
+            "price": "299.99"
+        },
+        "gpu": {
+            "model": "NVIDIA RTX 3070",
+            "price": "499.99"
+        },
+        "hdd": "",
+        "motherboard": {
+            "model": "ASUS TUF GAMING B550M-PLUS",
+            "price": "179.99"
+        },
+        "psu": {
+            "model": "Be Quiet! Straight Power 11 750W",
+            "price": "149.99"
+        },
+        "ram": {
+            "model": "TeamGroup T-Force Delta RGB 16GB 3200MHz",
+            "price": "89.99"
+        },
+        "ssd": {
+            "model": "ADATA XPG SX8200 Pro 1TB",
+            "price": "129.99"
+        },
+        "price": 1449.94
+    },
+    {
+        "userId": 4,
+        "orderId": "ORDER-3784529",
+        "case": {
+            "model": "Corsair 4000D Airflow",
+            "price": "94.99"
+        },
+        "cpu": {
+            "model": "Intel Core i5-11400F",
+            "price": "179.99"
+        },
+        "gpu": {
+            "model": "AMD Radeon RX 6600",
+            "price": "249.99"
+        },
+        "hdd": {
+            "model": "Toshiba X300 6TB",
+            "price": "129.99"
+        },
+        "motherboard": {
+            "model": "ASRock B550 Phantom Gaming 4",
+            "price": "139.99"
+        },
+        "psu": {
+            "model": "Cooler Master MWE Gold 750W",
+            "price": "119.99"
+        },
+        "ram": {
+            "model": "Patriot Viper Steel 16GB 3200MHz",
+            "price": "74.99"
+        },
+        "ssd": {
+            "model": "Kingston A2000 NVMe 1TB",
+            "price": "99.99"
+        },
+        "price": 1089.93
+    },
+    {
+        "userId": 7,
+        "orderId": "ORDER-5128390",
+        "case": {
+            "model": "NZXT H7 Flow",
+            "price": "129.99"
+        },
+        "cpu": {
+            "model": "AMD Ryzen 7 5800X",
+            "price": "339.99"
+        },
+        "gpu": {
+            "model": "NVIDIA RTX 3050",
+            "price": "279.99"
+        },
+        "hdd": "",
+        "motherboard": {
+            "model": "MSI MPG B550 Gaming Edge WiFi",
+            "price": "189.99"
+        },
+        "psu": {
+            "model": "Corsair RM850x",
+            "price": "139.99"
+        },
+        "ram": {
+            "model": "TeamGroup T-Create Expert 32GB 3200MHz",
+            "price": "159.99"
+        },
+        "ssd": {
+            "model": "Samsung 870 QVO 2TB",
+            "price": "219.99"
+        },
+        "price": 1459.94
+    },
+    {
+        "userId": 2,
+        "orderId": "ORDER-6472815",
+        "case": {
+            "model": "Thermaltake Versa H18",
+            "price": "49.99"
+        },
+        "cpu": {
+            "model": "Intel Core i3-10100F",
+            "price": "109.99"
+        },
+        "gpu": {
+            "model": "AMD Radeon RX 5500 XT",
+            "price": "169.99"
+        },
+        "hdd": {
+            "model": "Seagate BarraCuda Pro 2TB",
+            "price": "89.99"
+        },
+        "motherboard": {
+            "model": "Gigabyte B460M DS3H",
+            "price": "99.99"
+        },
+        "psu": {
+            "model": "Thermaltake Smart 600W",
+            "price": "59.99"
+        },
+        "ram": {
+            "model": "Crucial Ballistix 16GB 2666MHz",
+            "price": "59.99"
+        },
+        "ssd": {
+            "model": "WD Green 240GB",
+            "price": "39.99"
+        },
+        "price": 679.93
+    },
+    {
+        "userId": 9,
+        "orderId": "ORDER-9821346",
+        "case": {
+            "model": "Phanteks Eclipse P400A",
+            "price": "89.99"
+        },
+        "cpu": {
+            "model": "AMD Ryzen 5 3600",
+            "price": "199.99"
+        },
+        "gpu": {
+            "model": "NVIDIA GTX 1660 Super",
+            "price": "229.99"
+        },
+        "hdd": "",
+        "motherboard": {
+            "model": "ASUS PRIME B550M-A",
+            "price": "129.99"
+        },
+        "psu": {
+            "model": "EVGA 600 W1",
+            "price": "49.99"
+        },
+        "ram": {
+            "model": "Corsair Vengeance LPX 8GB 3000MHz",
+            "price": "39.99"
+        },
+        "ssd": {
+            "model": "Crucial MX500 500GB",
+            "price": "59.99"
+        },
+        "price": 799.93
+    },
+    {
+        "userId": 5,
+        "orderId": "ORDER-7391824",
+        "case": {
+            "model": "CoolerMaster NR200P",
+            "price": "119.99"
+        },
+        "cpu": {
+            "model": "Intel Core i7-11700K",
+            "price": "319.99"
+        },
+        "gpu": {
+            "model": "NVIDIA RTX 2060",
+            "price": "299.99"
+        },
+        "hdd": {
+            "model": "Toshiba P300 3TB",
+            "price": "79.99"
+        },
+        "motherboard": {
+            "model": "ASRock Z490 Phantom Gaming ITX",
+            "price": "189.99"
+        },
+        "psu": {
+            "model": "SilverStone SX750",
+            "price": "159.99"
+        },
+        "ram": {
+            "model": "ADATA XPG Spectrix D50 16GB 3600MHz",
+            "price": "89.99"
+        },
+        "ssd": {
+            "model": "Samsung 860 EVO 1TB",
+            "price": "129.99"
+        },
+        "price": 1389.93
+    },
+    {
+        "userId": 2,
+        "orderId": "ORDER-11",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1594.93,
+        "date": "2024-08-12"
+    },
+    {
+        "userId": 13,
+        "orderId": "ORDER-12",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1619.92,
+        "date": "2024-10-14"
+    },
+    {
+        "userId": 6,
+        "orderId": "ORDER-13",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1404.93,
+        "date": "2024-11-11"
+    },
+    {
+        "userId": 3,
+        "orderId": "ORDER-14",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1364.92,
+        "date": "2024-06-26"
+    },
+    {
+        "userId": 3,
+        "orderId": "ORDER-15",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1564.92,
+        "date": "2024-06-08"
+    },
+    {
+        "userId": 6,
+        "orderId": "ORDER-16",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1514.93,
+        "date": "2024-11-23"
+    },
+    {
+        "userId": 14,
+        "orderId": "ORDER-17",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1414.93,
+        "date": "2024-06-04"
+    },
+    {
+        "userId": 11,
+        "orderId": "ORDER-18",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Black 2TB",
+            "price": 89.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1724.92,
+        "date": "2024-12-31"
+    },
+    {
+        "userId": 4,
+        "orderId": "ORDER-19",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1629.92,
+        "date": "2024-12-26"
+    },
+    {
+        "userId": 18,
+        "orderId": "ORDER-20",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1934.93,
+        "date": "2024-12-05"
+    },
+    {
+        "userId": 7,
+        "orderId": "ORDER-21",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1389.92,
+        "date": "2024-07-23"
+    },
+    {
+        "userId": 10,
+        "orderId": "ORDER-22",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1439.93,
+        "date": "2024-08-06"
+    },
+    {
+        "userId": 19,
+        "orderId": "ORDER-23",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1374.92,
+        "date": "2024-11-21"
+    },
+    {
+        "userId": 8,
+        "orderId": "ORDER-24",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1514.93,
+        "date": "2024-07-30"
+    },
+    {
+        "userId": 4,
+        "orderId": "ORDER-25",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1494.93,
+        "date": "2025-01-15"
+    },
+    {
+        "userId": 20,
+        "orderId": "ORDER-26",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1704.93,
+        "date": "2024-11-21"
+    },
+    {
+        "userId": 16,
+        "orderId": "ORDER-27",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "X300 4TB",
+            "price": 114.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1634.92,
+        "date": "2024-07-10"
+    },
+    {
+        "userId": 14,
+        "orderId": "ORDER-28",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1384.93,
+        "date": "2024-11-17"
+    },
+    {
+        "userId": 10,
+        "orderId": "ORDER-29",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1859.93,
+        "date": "2024-11-18"
+    },
+    {
+        "userId": 13,
+        "orderId": "ORDER-30",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1859.92,
+        "date": "2024-11-01"
+    },
+    {
+        "userId": 15,
+        "orderId": "ORDER-31",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1814.92,
+        "date": "2024-07-23"
+    },
+    {
+        "userId": 9,
+        "orderId": "ORDER-32",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1214.93,
+        "date": "2024-07-09"
+    },
+    {
+        "userId": 15,
+        "orderId": "ORDER-33",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1749.93,
+        "date": "2024-08-18"
+    },
+    {
+        "userId": 3,
+        "orderId": "ORDER-34",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1574.92,
+        "date": "2024-10-05"
+    },
+    {
+        "userId": 1,
+        "orderId": "ORDER-35",
+        "case": {
+            "brand": "Thermaltake",
+            "model": "V200",
+            "price": 74.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1279.93,
+        "date": "2024-11-04"
+    },
+    {
+        "userId": 10,
+        "orderId": "ORDER-36",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "P300 2TB",
+            "price": 54.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1879.92,
+        "date": "2024-09-12"
+    },
+    {
+        "userId": 11,
+        "orderId": "ORDER-37",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1524.93,
+        "date": "2024-09-27"
+    },
+    {
+        "userId": 6,
+        "orderId": "ORDER-38",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1454.93,
+        "date": "2024-08-31"
+    },
+    {
+        "userId": 17,
+        "orderId": "ORDER-39",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1169.93,
+        "date": "2024-12-24"
+    },
+    {
+        "userId": 8,
+        "orderId": "ORDER-40",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Blue 2TB",
+            "price": 64.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1609.92,
+        "date": "2024-12-23"
+    },
+    {
+        "userId": 17,
+        "orderId": "ORDER-41",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1634.93,
+        "date": "2024-06-22"
+    },
+    {
+        "userId": 5,
+        "orderId": "ORDER-42",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1124.93,
+        "date": "2024-07-08"
+    },
+    {
+        "userId": 20,
+        "orderId": "ORDER-43",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1509.92,
+        "date": "2024-09-04"
+    },
+    {
+        "userId": 3,
+        "orderId": "ORDER-44",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Black 2TB",
+            "price": 89.99
+        },
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1414.92,
+        "date": "2024-06-02"
+    },
+    {
+        "userId": 11,
+        "orderId": "ORDER-45",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1804.92,
+        "date": "2025-01-08"
+    },
+    {
+        "userId": 11,
+        "orderId": "ORDER-46",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Black 2TB",
+            "price": 89.99
+        },
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1514.92,
+        "date": "2024-10-10"
+    },
+    {
+        "userId": 15,
+        "orderId": "ORDER-47",
+        "case": {
+            "brand": "Thermaltake",
+            "model": "V200",
+            "price": 74.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Black 2TB",
+            "price": 89.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1954.92,
+        "date": "2024-08-18"
+    },
+    {
+        "userId": 1,
+        "orderId": "ORDER-48",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1524.93,
+        "date": "2024-08-30"
+    },
+    {
+        "userId": 17,
+        "orderId": "ORDER-49",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Black 2TB",
+            "price": 89.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1409.92,
+        "date": "2024-07-09"
+    },
+    {
+        "userId": 9,
+        "orderId": "ORDER-50",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1164.93,
+        "date": "2024-09-26"
+    },
+    {
+        "userId": 10,
+        "orderId": "ORDER-51",
+        "case": {
+            "brand": "Thermaltake",
+            "model": "V200",
+            "price": 74.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1599.92,
+        "date": "2024-09-24"
+    },
+    {
+        "userId": 16,
+        "orderId": "ORDER-52",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Black 2TB",
+            "price": 89.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1659.92,
+        "date": "2024-10-04"
+    },
+    {
+        "userId": 20,
+        "orderId": "ORDER-53",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1439.93,
+        "date": "2024-12-12"
+    },
+    {
+        "userId": 19,
+        "orderId": "ORDER-54",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Blue 2TB",
+            "price": 64.99
+        },
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1754.92,
+        "date": "2024-10-23"
+    },
+    {
+        "userId": 8,
+        "orderId": "ORDER-55",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Black 2TB",
+            "price": 89.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1209.92,
+        "date": "2024-07-08"
+    },
+    {
+        "userId": 5,
+        "orderId": "ORDER-56",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "P300 2TB",
+            "price": 54.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1404.92,
+        "date": "2024-06-02"
+    },
+    {
+        "userId": 1,
+        "orderId": "ORDER-57",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1554.93,
+        "date": "2024-10-26"
+    },
+    {
+        "userId": 8,
+        "orderId": "ORDER-58",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "X300 4TB",
+            "price": 114.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1769.92,
+        "date": "2024-12-08"
+    },
+    {
+        "userId": 11,
+        "orderId": "ORDER-59",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1464.93,
+        "date": "2024-07-20"
+    },
+    {
+        "userId": 4,
+        "orderId": "ORDER-60",
+        "case": {
+            "brand": "Thermaltake",
+            "model": "V200",
+            "price": 74.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Blue 2TB",
+            "price": 64.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1339.92,
+        "date": "2024-07-27"
+    },
+    {
+        "userId": 1,
+        "orderId": "ORDER-61",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1654.93,
+        "date": "2024-05-30"
+    },
+    {
+        "userId": 8,
+        "orderId": "ORDER-62",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1829.93,
+        "date": "2025-01-03"
+    },
+    {
+        "userId": 7,
+        "orderId": "ORDER-63",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1729.93,
+        "date": "2024-10-31"
+    },
+    {
+        "userId": 14,
+        "orderId": "ORDER-64",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1459.92,
+        "date": "2024-08-08"
+    },
+    {
+        "userId": 12,
+        "orderId": "ORDER-65",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1684.93,
+        "date": "2024-11-07"
+    },
+    {
+        "userId": 7,
+        "orderId": "ORDER-66",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "X300 4TB",
+            "price": 114.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1564.92,
+        "date": "2024-06-12"
+    },
+    {
+        "userId": 8,
+        "orderId": "ORDER-67",
+        "case": {
+            "brand": "Thermaltake",
+            "model": "V200",
+            "price": 74.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1774.93,
+        "date": "2024-08-30"
+    },
+    {
+        "userId": 8,
+        "orderId": "ORDER-68",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Black 2TB",
+            "price": 89.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1624.92,
+        "date": "2024-06-20"
+    },
+    {
+        "userId": 10,
+        "orderId": "ORDER-69",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1994.93,
+        "date": "2024-09-06"
+    },
+    {
+        "userId": 13,
+        "orderId": "ORDER-70",
+        "case": {
+            "brand": "Thermaltake",
+            "model": "V200",
+            "price": 74.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1584.92,
+        "date": "2024-12-11"
+    },
+    {
+        "userId": 14,
+        "orderId": "ORDER-71",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1529.92,
+        "date": "2024-10-12"
+    },
+    {
+        "userId": 9,
+        "orderId": "ORDER-72",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "X300 4TB",
+            "price": 114.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1774.92,
+        "date": "2025-01-15"
+    },
+    {
+        "userId": 2,
+        "orderId": "ORDER-73",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1644.93,
+        "date": "2024-09-24"
+    },
+    {
+        "userId": 9,
+        "orderId": "ORDER-74",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1684.92,
+        "date": "2024-06-22"
+    },
+    {
+        "userId": 12,
+        "orderId": "ORDER-75",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1494.93,
+        "date": "2024-08-21"
+    },
+    {
+        "userId": 12,
+        "orderId": "ORDER-76",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1889.93,
+        "date": "2025-01-17"
+    },
+    {
+        "userId": 15,
+        "orderId": "ORDER-77",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 2129.92,
+        "date": "2025-01-08"
+    },
+    {
+        "userId": 6,
+        "orderId": "ORDER-78",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1799.93,
+        "date": "2024-06-03"
+    },
+    {
+        "userId": 9,
+        "orderId": "ORDER-79",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Blue 2TB",
+            "price": 64.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1659.92,
+        "date": "2024-08-20"
+    },
+    {
+        "userId": 13,
+        "orderId": "ORDER-80",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1569.93,
+        "date": "2024-11-03"
+    },
+    {
+        "userId": 9,
+        "orderId": "ORDER-81",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1509.92,
+        "date": "2024-12-29"
+    },
+    {
+        "userId": 14,
+        "orderId": "ORDER-82",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Blue 2TB",
+            "price": 64.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1629.92,
+        "date": "2024-10-19"
+    },
+    {
+        "userId": 6,
+        "orderId": "ORDER-83",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1489.93,
+        "date": "2024-12-26"
+    },
+    {
+        "userId": 15,
+        "orderId": "ORDER-84",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1839.93,
+        "date": "2024-10-25"
+    },
+    {
+        "userId": 5,
+        "orderId": "ORDER-85",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1749.93,
+        "date": "2025-01-11"
+    },
+    {
+        "userId": 17,
+        "orderId": "ORDER-86",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1589.93,
+        "date": "2024-12-23"
+    },
+    {
+        "userId": 2,
+        "orderId": "ORDER-87",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "P300 2TB",
+            "price": 54.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1489.92,
+        "date": "2024-11-08"
+    },
+    {
+        "userId": 1,
+        "orderId": "ORDER-88",
+        "case": {
+            "brand": "Thermaltake",
+            "model": "V200",
+            "price": 74.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "P300 2TB",
+            "price": 54.99
+        },
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1639.92,
+        "date": "2024-11-30"
+    },
+    {
+        "userId": 2,
+        "orderId": "ORDER-89",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Black 2TB",
+            "price": 89.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1224.92,
+        "date": "2024-12-01"
+    },
+    {
+        "userId": 18,
+        "orderId": "ORDER-90",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1179.93,
+        "date": "2024-10-16"
+    },
+    {
+        "userId": 8,
+        "orderId": "ORDER-91",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1284.93,
+        "date": "2024-08-17"
+    },
+    {
+        "userId": 2,
+        "orderId": "ORDER-92",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM850x",
+            "price": 149.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1834.93,
+        "date": "2024-12-30"
+    },
+    {
+        "userId": 18,
+        "orderId": "ORDER-93",
+        "case": {
+            "brand": "Thermaltake",
+            "model": "V200",
+            "price": 74.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "X300 4TB",
+            "price": 114.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1369.92,
+        "date": "2024-08-18"
+    },
+    {
+        "userId": 7,
+        "orderId": "ORDER-94",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1464.93,
+        "date": "2024-06-08"
+    },
+    {
+        "userId": 18,
+        "orderId": "ORDER-95",
+        "case": {
+            "brand": "NZXT",
+            "model": "H510",
+            "price": 79.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "X300 4TB",
+            "price": 114.99
+        },
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1249.92,
+        "date": "2024-09-01"
+    },
+    {
+        "userId": 5,
+        "orderId": "ORDER-96",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 7 5800X",
+            "price": 329.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1294.93,
+        "date": "2024-12-18"
+    },
+    {
+        "userId": 6,
+        "orderId": "ORDER-97",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Vengeance LPX 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "980 PRO 1TB",
+            "price": 179.99
+        },
+        "price": 1354.93,
+        "date": "2024-12-19"
+    },
+    {
+        "userId": 9,
+        "orderId": "ORDER-98",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1694.93,
+        "date": "2025-01-06"
+    },
+    {
+        "userId": 13,
+        "orderId": "ORDER-99",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1379.93,
+        "date": "2024-07-04"
+    },
+    {
+        "userId": 11,
+        "orderId": "ORDER-100",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "TeamGroup",
+            "model": "T-Force Delta 16GB 3200MHz",
+            "price": 84.99
+        },
+        "ssd": {
+            "brand": "Crucial",
+            "model": "P5 1TB",
+            "price": 99.99
+        },
+        "price": 1574.92,
+        "date": "2025-01-07"
+    },
+    {
+        "userId": 6,
+        "orderId": "ORDER-101",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Cooler Master",
+            "model": "MWE Gold 750",
+            "price": 109.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1669.93,
+        "date": "2024-10-21"
+    },
+    {
+        "userId": 7,
+        "orderId": "ORDER-102",
+        "case": {
+            "brand": "Thermaltake",
+            "model": "V200",
+            "price": 74.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6700 XT",
+            "price": 479.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Seagate",
+            "model": "FireCuda 520 1TB",
+            "price": 139.99
+        },
+        "price": 1289.93,
+        "date": "2024-06-11"
+    },
+    {
+        "userId": 7,
+        "orderId": "ORDER-103",
+        "case": {
+            "brand": "Corsair",
+            "model": "iCUE 220T",
+            "price": 109.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "TUF GAMING Z590-PLUS",
+            "price": 219.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1669.93,
+        "date": "2024-11-23"
+    },
+    {
+        "userId": 9,
+        "orderId": "ORDER-104",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 9 5900X",
+            "price": 499.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3070",
+            "price": 499.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1679.92,
+        "date": "2025-01-11"
+    },
+    {
+        "userId": 11,
+        "orderId": "ORDER-105",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": {
+            "brand": "Western Digital",
+            "model": "Blue 2TB",
+            "price": 64.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MPG Z490 GAMING EDGE",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "EVGA",
+            "model": "SuperNOVA 750 G5",
+            "price": 139.99
+        },
+        "ram": {
+            "brand": "Corsair",
+            "model": "Dominator Platinum 32GB 3200MHz",
+            "price": 199.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 2034.92,
+        "date": "2024-06-25"
+    },
+    {
+        "userId": 6,
+        "orderId": "ORDER-106",
+        "case": {
+            "brand": "Lian Li",
+            "model": "O11 Dynamic",
+            "price": 149.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i5-12400",
+            "price": 189.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1249.93,
+        "date": "2024-07-21"
+    },
+    {
+        "userId": 3,
+        "orderId": "ORDER-107",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "AMD",
+            "model": "Ryzen 5 5600X",
+            "price": 199.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6600 XT",
+            "price": 379.99
+        },
+        "hdd": "",
+        "motherboard": {
+            "brand": "ASUS",
+            "model": "ROG STRIX B550-F GAMING",
+            "price": 199.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Kingston",
+            "model": "KC2500 1TB",
+            "price": 124.99
+        },
+        "price": 1204.93,
+        "date": "2024-11-22"
+    },
+    {
+        "userId": 10,
+        "orderId": "ORDER-108",
+        "case": {
+            "brand": "Cooler Master",
+            "model": "MasterBox Q300L",
+            "price": 59.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i7-12700K",
+            "price": 399.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3080",
+            "price": 699.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "Barracuda 2TB",
+            "price": 59.99
+        },
+        "motherboard": {
+            "brand": "ASRock",
+            "model": "B550 Steel Legend",
+            "price": 169.99
+        },
+        "psu": {
+            "brand": "Seasonic",
+            "model": "Focus GX-750",
+            "price": 119.99
+        },
+        "ram": {
+            "brand": "Kingston",
+            "model": "FURY Beast 16GB 3200MHz",
+            "price": 79.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1699.92,
+        "date": "2024-06-02"
+    },
+    {
+        "userId": 7,
+        "orderId": "ORDER-109",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "AMD",
+            "model": "RX 6800 XT",
+            "price": 649.99
+        },
+        "hdd": {
+            "brand": "Seagate",
+            "model": "FireCuda 2TB",
+            "price": 79.99
+        },
+        "motherboard": {
+            "brand": "MSI",
+            "model": "MAG B550 TOMAHAWK",
+            "price": 179.99
+        },
+        "psu": {
+            "brand": "Corsair",
+            "model": "RM750x",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "Crucial",
+            "model": "Ballistix 16GB 3200MHz",
+            "price": 74.99
+        },
+        "ssd": {
+            "brand": "Samsung",
+            "model": "970 EVO Plus 1TB",
+            "price": 119.99
+        },
+        "price": 1914.92,
+        "date": "2024-06-02"
+    },
+    {
+        "userId": 13,
+        "orderId": "ORDER-110",
+        "case": {
+            "brand": "Phanteks",
+            "model": "Eclipse P300",
+            "price": 89.99
+        },
+        "cpu": {
+            "brand": "Intel",
+            "model": "Core i9-12900K",
+            "price": 589.99
+        },
+        "gpu": {
+            "brand": "NVIDIA",
+            "model": "RTX 3060",
+            "price": 329.99
+        },
+        "hdd": {
+            "brand": "Toshiba",
+            "model": "P300 2TB",
+            "price": 54.99
+        },
+        "motherboard": {
+            "brand": "Gigabyte",
+            "model": "B550 AORUS PRO AC",
+            "price": 189.99
+        },
+        "psu": {
+            "brand": "Thermaltake",
+            "model": "Toughpower GF1 750W",
+            "price": 129.99
+        },
+        "ram": {
+            "brand": "G.Skill",
+            "model": "Ripjaws V 16GB 3600MHz",
+            "price": 89.99
+        },
+        "ssd": {
+            "brand": "Western Digital",
+            "model": "SN750 1TB",
+            "price": 109.99
+        },
+        "price": 1584.92,
+        "date": "2024-06-01"
+    }
+]

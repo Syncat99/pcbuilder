@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/output.css" />
+    <title>Document</title>
+  </head>
+  <body class="bg-gray-300 overflow-y-hidden">
+    <div class="flex">
+      <aside
+        id="default-sidebar"
+        class="flex flex-col gap-2.5 bg-gray-500 py-6 px-2 top-0 left-0 z-40 w-44 h-screen transition-transform -translate-x-full sm:translate-x-0"
+      >
+        <button
+          id="overviewButton"
+          class="p-2 bg-gray-600 rounded-lg hover:bg-gray-100 start hover:bg-gray-400 w-full hover:text-gray-700 text-gray-300 font-semibold text-center"
+        >
+          Overview
+        </button>
+        <button
+          id="usersButton"
+          class="p-2 bg-gray-600 rounded-lg hover:bg-gray-100 start hover:bg-gray-400 w-full hover:text-gray-700 text-gray-300 font-semibold text-center"
+        >
+          Users
+        </button>
+        <button
+          id="salesButton"
+          class="p-2 bg-gray-600 rounded-lg hover:bg-gray-100 start hover:bg-gray-400 w-full hover:text-gray-700 text-gray-300 font-semibold text-center"
+        >
+          Sales
+        </button>
+      </aside>
+      <div id="dashContent" class="w-full p-4 bg-gray-400 overflow-y-scroll h-screen"></div>
+    </div>
+    <script type="module" src="./scripts/navbar.js"></script>
+    <script type="module" src="./scripts/builder.js"></script>
+    <script type="module" src="./scripts/dashboard.js"></script>
+    <script type="module" src="./script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </body>
+</html>
