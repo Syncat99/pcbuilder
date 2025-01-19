@@ -1,2 +1,5 @@
 *.js linguist-detectable
 *.html linguist-documentation
+*.css linguist-detectable
+*.css linguist-language=CSS
+other-styles.css linguist-documentation
