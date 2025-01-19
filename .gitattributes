@@ -1,5 +1,5 @@
+src/output.css linguist-detectable
+src/output.css linguist-language=CSS
 *.js linguist-detectable
 *.html linguist-documentation
-*.css linguist-detectable
-*.css linguist-language=CSS
 other-styles.css linguist-documentation
